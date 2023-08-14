@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-## Hey there! Welcome to my profile. I'm a Senior C# Developer passionate about crafting clean, scalable code and building innovative software solutions. With a knack for analyzing project requirements and collaborating with cross-functional teams, I thrive in creating impactful applications that make a difference.. 👋
+## Hey there! Welcome to my profile.👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodesouza&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
